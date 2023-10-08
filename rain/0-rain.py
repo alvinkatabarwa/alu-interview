@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 "Rain: Calclate how much water is left after it rains."
-
 def rain(walls):
     """doc comment"""
     if not walls:
